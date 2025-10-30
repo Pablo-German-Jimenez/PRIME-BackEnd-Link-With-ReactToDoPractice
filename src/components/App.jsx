@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <main className="text-center container">
-    <h1 className="text-center">To do list with React and save localStorage</h1>
+    <h1 className="text-center">Backend proyect linked to React To Do </h1>
     <FormularioTarea/>
     </main>
     <Footer/></>
